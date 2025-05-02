@@ -1,0 +1,19 @@
+{
+  "name": "azuresentanalysis",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.798.0",
+    "@aws-sdk/client-sns": "^3.799.0",
+    "@aws-sdk/util-dynamodb": "^3.798.0",
+    "@azure/cosmos": "^4.3.0",
+    "@azure/functions": "^4.0.0",
+    "axios": "^1.9.0",
+    "sentiment": "^5.0.2"
+  },
+  "main": "src/{index.js,functions/*.js}"
+}

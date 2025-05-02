@@ -1,0 +1,2568 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1652378154"
+                    },
+                    "name": {
+                        "label": "Yahweh Naz"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T17:45:55-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582479410"
+                },
+                "title": {
+                    "label": "Jesus"
+                },
+                "content": {
+                    "label": "Love",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id113861366"
+                    },
+                    "name": {
+                        "label": "has sex with songs"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T17:38:54-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582462156"
+                },
+                "title": {
+                    "label": "Just another platform"
+                },
+                "content": {
+                    "label": "Nothing new or individual here",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1321410340"
+                    },
+                    "name": {
+                        "label": "Official_baddie"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T17:37:00-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582457535"
+                },
+                "title": {
+                    "label": "Notes"
+                },
+                "content": {
+                    "label": "Please bring back notes on post, that was the best thing y’all have ever created on Instagram this year.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id809140520"
+                    },
+                    "name": {
+                        "label": "meowlexandgrace"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T17:27:17-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582433647"
+                },
+                "title": {
+                    "label": "Yikes"
+                },
+                "content": {
+                    "label": "Incoherent babblings of conservative bots ruined the app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id549726218"
+                    },
+                    "name": {
+                        "label": "edblablabl"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T17:18:56-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582413368"
+                },
+                "title": {
+                    "label": "Not what it used to be to be"
+                },
+                "content": {
+                    "label": "At one point this was a great app for artists. Now the algorithm has changed and a third of the people that use to see my post do. It’s not fair that instagram charges so much to get verified.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86615648"
+                    },
+                    "name": {
+                        "label": "Мs. Lei™"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T17:13:16-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582399518"
+                },
+                "title": {
+                    "label": "Fascism"
+                },
+                "content": {
+                    "label": "Is alive & well on this app!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id741793427"
+                    },
+                    "name": {
+                        "label": "baccpetl"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T16:41:30-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582323339"
+                },
+                "title": {
+                    "label": "BRING BACK THE SQUARES"
+                },
+                "content": {
+                    "label": "INSTAGRAM CHANGED THE GRID PROFILE FEED FROM SQUARES TO RECTANGLES AND EVERYTHING IS RUINED, PLEASE GIVE ME MY SQUARES BACK",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id164377212"
+                    },
+                    "name": {
+                        "label": "TyrenJohn"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T16:30:26-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582296866"
+                },
+                "title": {
+                    "label": "skin tones rendered incorrectly in camera"
+                },
+                "content": {
+                    "label": "for a photo sharing app, you would think they would get the camera right, this renders my skin tone incorrectly every time I take the photo.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1560599061"
+                    },
+                    "name": {
+                        "label": "Prodigy.K2"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T16:02:46-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582229919"
+                },
+                "title": {
+                    "label": "Amazing, difficult to grow a fanbase"
+                },
+                "content": {
+                    "label": "9.7/10 difficulty to blow up",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1638676372"
+                    },
+                    "name": {
+                        "label": "NSBig30"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T15:58:00-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582218252"
+                },
+                "title": {
+                    "label": "Stop banning me"
+                },
+                "content": {
+                    "label": "It’s keep banging me when dis is new phone",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id881728808"
+                    },
+                    "name": {
+                        "label": "@needhelp"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T15:43:55-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582183966"
+                },
+                "title": {
+                    "label": "Instagram Bug how can I log back in ?"
+                },
+                "content": {
+                    "label": "I need help on logging back into my account it’s saying it’s the incorrect password and when I do put a new password it’s saying it’s still incorrect and saying my account isn’t available but my account is still up and everything",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1142343004"
+                    },
+                    "name": {
+                        "label": "Shhsehhrhf"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T15:37:24-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582168088"
+                },
+                "title": {
+                    "label": "brah"
+                },
+                "content": {
+                    "label": "got it for 1 day then got banned??",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1684914029"
+                    },
+                    "name": {
+                        "label": "PaperCJB"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T14:47:00-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582045642"
+                },
+                "title": {
+                    "label": "Massive"
+                },
+                "content": {
+                    "label": "You know what’s crazy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id202968728"
+                    },
+                    "name": {
+                        "label": "Okra29"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T14:36:57-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12582021351"
+                },
+                "title": {
+                    "label": "Love the app"
+                },
+                "content": {
+                    "label": "Love the app, love the concept but why do I constantly see posts in my feed in languages I don’t speak. I wish there was a filter.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id139073679"
+                    },
+                    "name": {
+                        "label": "Tom dong long dong long"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T13:39:07-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581875134"
+                },
+                "title": {
+                    "label": "They don’t cater to people who call their number to order and need to ask questions."
+                },
+                "content": {
+                    "label": "Don’t know because they don’t answer",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1305795772"
+                    },
+                    "name": {
+                        "label": "Ariaamraei20"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T13:22:20-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581831478"
+                },
+                "title": {
+                    "label": "No"
+                },
+                "content": {
+                    "label": "😕",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id700370635"
+                    },
+                    "name": {
+                        "label": "WickedAwful"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T13:14:43-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581811379"
+                },
+                "title": {
+                    "label": "Honestly you should read"
+                },
+                "content": {
+                    "label": "I don’t want to even have an instagram account and have cancelled it numerous times but my family, grandchildren and friends occasionally send me videos and in order to know what they are speaking about I need to download the app again. You should truly make a way that people who choose not to download your app are able to still see the things being sent to them. As it’s ridiculous and part of the reason I cancelled my account…you want to much information about me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1607457181"
+                    },
+                    "name": {
+                        "label": "chaviamento"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T13:12:39-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581806037"
+                },
+                "title": {
+                    "label": "desgraça"
+                },
+                "content": {
+                    "label": "esse insta nojento não deixa eu ver foto do catarro da minha bb falando que é nudez, bando de lixo!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id347080011"
+                    },
+                    "name": {
+                        "label": "NM17BCP"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:55:10-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581759099"
+                },
+                "title": {
+                    "label": "Makes all photos dark"
+                },
+                "content": {
+                    "label": "Whenever I try to post unedited photos, the app will darken them.  The only solution to this is to delete and reinstall the app when I go to post something, then it works for a few hours.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id252016301"
+                    },
+                    "name": {
+                        "label": "Timeline issue"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:50:08-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581745703"
+                },
+                "title": {
+                    "label": "I love IG"
+                },
+                "content": {
+                    "label": "Sites never down, distributes my videos quickly, and keeps it pretty secure around here.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38984068"
+                    },
+                    "name": {
+                        "label": "Sir Ving"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:43:06-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581726940"
+                },
+                "title": {
+                    "label": "No spambot enforcement, too many prompts to complete a report"
+                },
+                "content": {
+                    "label": "There are way too many accounts from India/israel that are spamming western accounts. Instagram is not keeping the trust and safety of honest and compliant users. There’s too many spam bot accounts being created and instagrams approval/deny AI is failing to remove them even when they are blatantly breaking ToS and reported. Instagram is not listening to its reasonable and prudent users who want to keep the community safe through regulation on public and private accounts. When a report is submitted there are too many prompt notifications in the submission process and makes it painstakingly frustrating when the spam account is large. Under 13 accounts are also far too great in number to be considered adequately enforced. Who ever Instagram may be using to regulate this access and administratively remove all of the aforementioned accounts is failing their employer. These ToS report submissions should not be meaningless and reviewed on years end. These executive decisions to deny and ignore user’s right to protect themselves from unwarranted harassment is shameful as well as hypocritical when compared to the intensity of (western) election year scrutiny in years past’s contextless denials. \nHow is unliking (old) posts ‘restricted certain activity to protect our community’ & ‘something went wrong’?\nThe current version repositions selections to random photos in the users profile and the settings page takes a long time to load if even at all. It’s beta at best. This is not a good time and look for Instagram. Hire better.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1780040780"
+                    },
+                    "name": {
+                        "label": "Meowster235"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:40:57-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581721160"
+                },
+                "title": {
+                    "label": "Certain story unavailable"
+                },
+                "content": {
+                    "label": "My boyfriend posts every day all day and it’s really weird how I can see EVERYTHING HE POSTS (I have his account so I know the story is the same as the rest) and it says it’s unavailable. He has posted me three times last 2 months and they all say unavailable but everyone else can see it. I can see the other pics of me but why after all this time can I still not see the highlight(certain ones) I have no settings going against the content I see or age restrictions",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1344678518"
+                    },
+                    "name": {
+                        "label": "444zxa"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:26:53-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581683168"
+                },
+                "title": {
+                    "label": "fix this instagram."
+                },
+                "content": {
+                    "label": "i’ve had an issue with logging into my instagram for a while now and instagram has done nothing about it. i’ve done everything i can log in on safari and other devices other than my phone and instagram hasn’t fixed the issues and it’s been more than 2 months.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1035905110"
+                    },
+                    "name": {
+                        "label": "nundone"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:24:30-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581676689"
+                },
+                "title": {
+                    "label": "Delete"
+                },
+                "content": {
+                    "label": "I can’t delete instagram and tic toc, both apps will not open, there just killing my phone !!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1780036176"
+                    },
+                    "name": {
+                        "label": "chaisauce"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:20:30-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581665631"
+                },
+                "title": {
+                    "label": "IG Review"
+                },
+                "content": {
+                    "label": "Been using the app forever. No complaints at the moment. But how cool would it be if we were able to have two profile pictures we get to alternate between? We could like flip it like a coin to pick which one we want to use. I dunno 🙂‍↔️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1313624084"
+                    },
+                    "name": {
+                        "label": "kella1178"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T12:06:25-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581626812"
+                },
+                "title": {
+                    "label": "wrong"
+                },
+                "content": {
+                    "label": "how come i use my daughter account with out login as soon as i download the app this apps totally wrong",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1670114956"
+                    },
+                    "name": {
+                        "label": "Ukiyo🌑"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T11:55:49-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581596523"
+                },
+                "title": {
+                    "label": "A great app just one problem"
+                },
+                "content": {
+                    "label": "It’s a very good app to talk to your friends! The only problem is that if you log out of your a account by accident when you try to login it won’t work and when you try the other method it won’t work either but over all the app is great just a few problems",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1759513699"
+                    },
+                    "name": {
+                        "label": "roroam"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T11:31:12-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581527289"
+                },
+                "title": {
+                    "label": "horrible ipad port"
+                },
+                "content": {
+                    "label": "it’s just the mobile port :/",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1780022248"
+                    },
+                    "name": {
+                        "label": "rufrlll"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T11:22:37-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581502982"
+                },
+                "title": {
+                    "label": "Terrible Moderation system"
+                },
+                "content": {
+                    "label": "I got flagged and banned for no reason. The apps AI moderation falsely flagged many of the pins I’ve saved- 90 percent of it being innocent art or pose models since I use this app for art. Don’t use this app seriously.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1780015780"
+                    },
+                    "name": {
+                        "label": "Zoheirtopolof"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T10:54:44-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581421771"
+                },
+                "title": {
+                    "label": "The best aplication"
+                },
+                "content": {
+                    "label": "Number 1",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id991021308"
+                    },
+                    "name": {
+                        "label": "hotmarkgain"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T10:42:37-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581386144"
+                },
+                "title": {
+                    "label": "Instagram"
+                },
+                "content": {
+                    "label": "Y’all need to fix y’all app I can’t do a face selfie",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1420305134"
+                    },
+                    "name": {
+                        "label": "did don sdcvvbv"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T10:28:02-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581342339"
+                },
+                "title": {
+                    "label": "Daily achievement"
+                },
+                "content": {
+                    "label": "Please can you bring back the daily rewards we get when we post",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id745755025"
+                    },
+                    "name": {
+                        "label": "Judith 99"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T10:20:07-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581318778"
+                },
+                "title": {
+                    "label": "My favorite"
+                },
+                "content": {
+                    "label": "Perfect !!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id268752052"
+                    },
+                    "name": {
+                        "label": "ZimXiao"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T10:05:13-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581273141"
+                },
+                "title": {
+                    "label": "Promotes human demonic behavior, toxic comparison, child exploitation for pedos avoid at all cost."
+                },
+                "content": {
+                    "label": "Worst app ever",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id802609294"
+                    },
+                    "name": {
+                        "label": "maya_acra"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:50:32-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581227796"
+                },
+                "title": {
+                    "label": "Captions not posting."
+                },
+                "content": {
+                    "label": "I’ve edited the same reel 5 times. And the caption disappears after I post it. Why is the app glitching it’s 2025.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119383916"
+                    },
+                    "name": {
+                        "label": "dudududuh"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:49:00-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581223084"
+                },
+                "title": {
+                    "label": "Get rid of the suggestion on story bar and disable from my likes to visual to others"
+                },
+                "content": {
+                    "label": "Instagram needs to give the consumers the options to disable the suggestion pop up from the story bar or not and stop sharing my likes or visual to other people. That is the privacy. I hope someone sue this Facebook and deal with the privacy again",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1514535044"
+                    },
+                    "name": {
+                        "label": "Bro 453"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:42:13-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581201580"
+                },
+                "title": {
+                    "label": "Hacked"
+                },
+                "content": {
+                    "label": "They wouldn’t let me get my acc back after getting hacked",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34424968"
+                    },
+                    "name": {
+                        "label": "hao1573"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:35:22-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581180033"
+                },
+                "title": {
+                    "label": "Instagram discriminates against medical content"
+                },
+                "content": {
+                    "label": "The instagram algorithm does not recognize the difference between blood from surgery versus blood from violent content. Medical posts get flagged inappropriately and then when we ask for a review, we get denied. I have heard similar complaints from other medical colleagues and Instagram continues to ignore and censor us.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1148048126"
+                    },
+                    "name": {
+                        "label": "shebeonmetrey"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:24:51-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581146742"
+                },
+                "title": {
+                    "label": "Terrible login issues"
+                },
+                "content": {
+                    "label": "I tried login to many of my accounts but they all just got deactivated for no reason but they said I was not being careful with community guidelines which I was they just wanted to take my accounts just for the fun ig but aye I guess that's what instagram do for people when you been on their platforms for them longest",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1773489316"
+                    },
+                    "name": {
+                        "label": "#christinaemilyrosebullard"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:16:30-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581120227"
+                },
+                "title": {
+                    "label": "Viral"
+                },
+                "content": {
+                    "label": "Please help make it happen captain #faithinGod to make it happen captain by #christinaemilyrosebullard",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1765244441"
+                    },
+                    "name": {
+                        "label": "Edwardnewgats"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T09:12:23-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581107088"
+                },
+                "title": {
+                    "label": "Titre"
+                },
+                "content": {
+                    "label": "Trop de pub",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1637374154"
+                    },
+                    "name": {
+                        "label": "BiaBia28$"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:48:04-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12581028302"
+                },
+                "title": {
+                    "label": "I love insta"
+                },
+                "content": {
+                    "label": "Just wish I could get my followers back up help me grow @muvaaab_blanca_bmoney",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id341357138"
+                    },
+                    "name": {
+                        "label": "Yourtemplefitness"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:37:34-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580993979"
+                },
+                "title": {
+                    "label": "New update is not good"
+                },
+                "content": {
+                    "label": "When adding reels, the video remains small. Can’t even scale it. That should be more simple.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1771718999"
+                    },
+                    "name": {
+                        "label": "Pookieesss"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:33:00-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580978708"
+                },
+                "title": {
+                    "label": "AI TOOK OVER!"
+                },
+                "content": {
+                    "label": "instagram had no reason on suspending and DISABLING my account, for somehow violating nudity??? I’m a minor! And not only that I don’t post nothing wit nudity!!! Yet they allow these grown MEN do worse then me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1422010863"
+                    },
+                    "name": {
+                        "label": "jdmsjshxysnmsksusn"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:30:22-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580969807"
+                },
+                "title": {
+                    "label": "suspending"
+                },
+                "content": {
+                    "label": "i’ve made 6 accounts since i’ve been hacked. i called support and they suspended the account that was hacked. but since then i’ve mad 6 others like i said, and they all have been suspended almost instantly. i didn’t even have time to make a profile picture. this app is probably the worst thing since Vegemite. app doesn’t even deserve 2 star to be honest.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id627189305"
+                    },
+                    "name": {
+                        "label": "TuckerB122"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:14:32-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580916174"
+                },
+                "title": {
+                    "label": "Astonishing number of bugs"
+                },
+                "content": {
+                    "label": "You’d think for a company worth billions with their flag ship app would have fewer bugs but no. Half the time you can’t post things without resetting the app or story settings. It’s pretty embarrassing the 2nd most used app is run so poorly",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id412310711"
+                    },
+                    "name": {
+                        "label": "Jonathan B million"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:11:23-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580905562"
+                },
+                "title": {
+                    "label": "New function is horrible"
+                },
+                "content": {
+                    "label": "Several months ago they added a box in the upper right corner that shows likes of friends. It blocks some of the screen, but there is no setting to hide it. Many users have claimed they don’t want friends ti know what videos they are interacting with, but aim hasn’t made a fix yet. Worst update ever.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id405111294"
+                    },
+                    "name": {
+                        "label": "Angellito50"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:10:17-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580901916"
+                },
+                "title": {
+                    "label": "Audio bug"
+                },
+                "content": {
+                    "label": "Please fix the audio for some reason I’ll scroll through videos and it will bug out and keep playing the video even out the app of Instagram",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1194545124"
+                    },
+                    "name": {
+                        "label": "azvw"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T08:02:29-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580875270"
+                },
+                "title": {
+                    "label": "About anime fans"
+                },
+                "content": {
+                    "label": "Instagram doesn’t like anime post do not download this app if u are a anime fan! They will give u strike if u post anime content!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1458911007"
+                    },
+                    "name": {
+                        "label": "smoore068"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-24T07:46:45-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "377.0.0"
+                },
+                "id": {
+                    "label": "12580821090"
+                },
+                "title": {
+                    "label": "Suggested posts not working"
+                },
+                "content": {
+                    "label": "Suggested posts won’t load",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=389801252&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2025-04-25T23:28:58-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/id=389801252/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=389801252/sortby=mostrecent/xml?urlDesc=/customerreviews/id=389801252/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=389801252/sortby=mostrecent/xml?urlDesc=/customerreviews/id=389801252/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=389801252/sortby=mostrecent/xml?urlDesc=/customerreviews/id=389801252/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=389801252/sortby=mostrecent/xml?urlDesc=/customerreviews/id=389801252/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/id=389801252/json"
+        }
+    }
+}

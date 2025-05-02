@@ -1,0 +1,2751 @@
+[
+    {
+        "score": 3,
+        "comparative": 3,
+        "calculation": [
+            {
+                "love": 3
+            }
+        ],
+        "tokens": [
+            "love"
+        ],
+        "words": [
+            "love"
+        ],
+        "positive": [
+            "love"
+        ],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "nothing",
+            "new",
+            "or",
+            "individual",
+            "here"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 4,
+        "comparative": 0.21052631578947367,
+        "calculation": [
+            {
+                "best": 3
+            },
+            {
+                "please": 1
+            }
+        ],
+        "tokens": [
+            "please",
+            "bring",
+            "back",
+            "notes",
+            "on",
+            "post",
+            "that",
+            "was",
+            "the",
+            "best",
+            "thing",
+            "y’all",
+            "have",
+            "ever",
+            "created",
+            "on",
+            "instagram",
+            "this",
+            "year"
+        ],
+        "words": [
+            "best",
+            "please"
+        ],
+        "positive": [
+            "best",
+            "please"
+        ],
+        "negative": []
+    },
+    {
+        "score": -4,
+        "comparative": -0.5,
+        "calculation": [
+            {
+                "ruined": -2
+            },
+            {
+                "incoherent": -2
+            }
+        ],
+        "tokens": [
+            "incoherent",
+            "babblings",
+            "of",
+            "conservative",
+            "bots",
+            "ruined",
+            "the",
+            "app"
+        ],
+        "words": [
+            "ruined",
+            "incoherent"
+        ],
+        "positive": [],
+        "negative": [
+            "ruined",
+            "incoherent"
+        ]
+    },
+    {
+        "score": -1,
+        "comparative": -0.02564102564102564,
+        "calculation": [
+            {
+                "charges": -2
+            },
+            {
+                "fair": -2
+            },
+            {
+                "great": 3
+            }
+        ],
+        "tokens": [
+            "at",
+            "one",
+            "point",
+            "this",
+            "was",
+            "a",
+            "great",
+            "app",
+            "for",
+            "artists",
+            "now",
+            "the",
+            "algorithm",
+            "has",
+            "changed",
+            "and",
+            "a",
+            "third",
+            "of",
+            "the",
+            "people",
+            "that",
+            "use",
+            "to",
+            "see",
+            "my",
+            "post",
+            "do",
+            "it’s",
+            "not",
+            "fair",
+            "that",
+            "instagram",
+            "charges",
+            "so",
+            "much",
+            "to",
+            "get",
+            "verified"
+        ],
+        "words": [
+            "charges",
+            "fair",
+            "great"
+        ],
+        "positive": [
+            "great"
+        ],
+        "negative": [
+            "charges",
+            "fair"
+        ]
+    },
+    {
+        "score": 1,
+        "comparative": 0.16666666666666666,
+        "calculation": [
+            {
+                "alive": 1
+            }
+        ],
+        "tokens": [
+            "is",
+            "alive",
+            "well",
+            "on",
+            "this",
+            "app"
+        ],
+        "words": [
+            "alive"
+        ],
+        "positive": [
+            "alive"
+        ],
+        "negative": []
+    },
+    {
+        "score": -1,
+        "comparative": -0.05,
+        "calculation": [
+            {
+                "please": 1
+            },
+            {
+                "ruined": -2
+            }
+        ],
+        "tokens": [
+            "instagram",
+            "changed",
+            "the",
+            "grid",
+            "profile",
+            "feed",
+            "from",
+            "squares",
+            "to",
+            "rectangles",
+            "and",
+            "everything",
+            "is",
+            "ruined",
+            "please",
+            "give",
+            "me",
+            "my",
+            "squares",
+            "back"
+        ],
+        "words": [
+            "please",
+            "ruined"
+        ],
+        "positive": [
+            "please"
+        ],
+        "negative": [
+            "ruined"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "for",
+            "a",
+            "photo",
+            "sharing",
+            "app",
+            "you",
+            "would",
+            "think",
+            "they",
+            "would",
+            "get",
+            "the",
+            "camera",
+            "right",
+            "this",
+            "renders",
+            "my",
+            "skin",
+            "tone",
+            "incorrectly",
+            "every",
+            "time",
+            "i",
+            "take",
+            "the",
+            "photo"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "9",
+            "7",
+            "10",
+            "difficulty",
+            "to",
+            "blow",
+            "up"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "it’s",
+            "keep",
+            "banging",
+            "me",
+            "when",
+            "dis",
+            "is",
+            "new",
+            "phone"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 2,
+        "comparative": 0.047619047619047616,
+        "calculation": [
+            {
+                "help": 2
+            }
+        ],
+        "tokens": [
+            "i",
+            "need",
+            "help",
+            "on",
+            "logging",
+            "back",
+            "into",
+            "my",
+            "account",
+            "it’s",
+            "saying",
+            "it’s",
+            "the",
+            "incorrect",
+            "password",
+            "and",
+            "when",
+            "i",
+            "do",
+            "put",
+            "a",
+            "new",
+            "password",
+            "it’s",
+            "saying",
+            "it’s",
+            "still",
+            "incorrect",
+            "and",
+            "saying",
+            "my",
+            "account",
+            "isn’t",
+            "available",
+            "but",
+            "my",
+            "account",
+            "is",
+            "still",
+            "up",
+            "and",
+            "everything"
+        ],
+        "words": [
+            "help"
+        ],
+        "positive": [
+            "help"
+        ],
+        "negative": []
+    },
+    {
+        "score": -2,
+        "comparative": -0.25,
+        "calculation": [
+            {
+                "banned": -2
+            }
+        ],
+        "tokens": [
+            "got",
+            "it",
+            "for",
+            "1",
+            "day",
+            "then",
+            "got",
+            "banned"
+        ],
+        "words": [
+            "banned"
+        ],
+        "positive": [],
+        "negative": [
+            "banned"
+        ]
+    },
+    {
+        "score": -2,
+        "comparative": -0.5,
+        "calculation": [
+            {
+                "crazy": -2
+            }
+        ],
+        "tokens": [
+            "you",
+            "know",
+            "what’s",
+            "crazy"
+        ],
+        "words": [
+            "crazy"
+        ],
+        "positive": [],
+        "negative": [
+            "crazy"
+        ]
+    },
+    {
+        "score": 7,
+        "comparative": 0.25925925925925924,
+        "calculation": [
+            {
+                "wish": 1
+            },
+            {
+                "love": 3
+            },
+            {
+                "love": 3
+            }
+        ],
+        "tokens": [
+            "love",
+            "the",
+            "app",
+            "love",
+            "the",
+            "concept",
+            "but",
+            "why",
+            "do",
+            "i",
+            "constantly",
+            "see",
+            "posts",
+            "in",
+            "my",
+            "feed",
+            "in",
+            "languages",
+            "i",
+            "don’t",
+            "speak",
+            "i",
+            "wish",
+            "there",
+            "was",
+            "a",
+            "filter"
+        ],
+        "words": [
+            "wish",
+            "love",
+            "love"
+        ],
+        "positive": [
+            "wish",
+            "love",
+            "love"
+        ],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "don’t",
+            "know",
+            "because",
+            "they",
+            "don’t",
+            "answer"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": -2,
+        "comparative": -2,
+        "calculation": [
+            {
+                "😕": -2
+            }
+        ],
+        "tokens": [
+            "😕"
+        ],
+        "words": [
+            "😕"
+        ],
+        "positive": [],
+        "negative": [
+            "😕"
+        ]
+    },
+    {
+        "score": -3,
+        "comparative": -0.03488372093023256,
+        "calculation": [
+            {
+                "want": 1
+            },
+            {
+                "cancelled": -1
+            },
+            {
+                "ridiculous": -3
+            },
+            {
+                "cancelled": -1
+            },
+            {
+                "want": 1
+            }
+        ],
+        "tokens": [
+            "i",
+            "don’t",
+            "want",
+            "to",
+            "even",
+            "have",
+            "an",
+            "instagram",
+            "account",
+            "and",
+            "have",
+            "cancelled",
+            "it",
+            "numerous",
+            "times",
+            "but",
+            "my",
+            "family",
+            "grandchildren",
+            "and",
+            "friends",
+            "occasionally",
+            "send",
+            "me",
+            "videos",
+            "and",
+            "in",
+            "order",
+            "to",
+            "know",
+            "what",
+            "they",
+            "are",
+            "speaking",
+            "about",
+            "i",
+            "need",
+            "to",
+            "download",
+            "the",
+            "app",
+            "again",
+            "you",
+            "should",
+            "truly",
+            "make",
+            "a",
+            "way",
+            "that",
+            "people",
+            "who",
+            "choose",
+            "not",
+            "to",
+            "download",
+            "your",
+            "app",
+            "are",
+            "able",
+            "to",
+            "still",
+            "see",
+            "the",
+            "things",
+            "being",
+            "sent",
+            "to",
+            "them",
+            "as",
+            "it’s",
+            "ridiculous",
+            "and",
+            "part",
+            "of",
+            "the",
+            "reason",
+            "i",
+            "cancelled",
+            "my",
+            "account…you",
+            "want",
+            "to",
+            "much",
+            "information",
+            "about",
+            "me"
+        ],
+        "words": [
+            "want",
+            "cancelled",
+            "ridiculous",
+            "cancelled",
+            "want"
+        ],
+        "positive": [
+            "want",
+            "want"
+        ],
+        "negative": [
+            "cancelled",
+            "ridiculous",
+            "cancelled"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "esse",
+            "insta",
+            "nojento",
+            "não",
+            "deixa",
+            "eu",
+            "ver",
+            "foto",
+            "do",
+            "catarro",
+            "da",
+            "minha",
+            "bb",
+            "falando",
+            "que",
+            "é",
+            "nudez",
+            "bando",
+            "de",
+            "lixo"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 1,
+        "comparative": 0.02702702702702703,
+        "calculation": [
+            {
+                "solution": 1
+            }
+        ],
+        "tokens": [
+            "whenever",
+            "i",
+            "try",
+            "to",
+            "post",
+            "unedited",
+            "photos",
+            "the",
+            "app",
+            "will",
+            "darken",
+            "them",
+            "the",
+            "only",
+            "solution",
+            "to",
+            "this",
+            "is",
+            "to",
+            "delete",
+            "and",
+            "reinstall",
+            "the",
+            "app",
+            "when",
+            "i",
+            "go",
+            "to",
+            "post",
+            "something",
+            "then",
+            "it",
+            "works",
+            "for",
+            "a",
+            "few",
+            "hours"
+        ],
+        "words": [
+            "solution"
+        ],
+        "positive": [
+            "solution"
+        ],
+        "negative": []
+    },
+    {
+        "score": 3,
+        "comparative": 0.21428571428571427,
+        "calculation": [
+            {
+                "secure": 2
+            },
+            {
+                "pretty": 1
+            }
+        ],
+        "tokens": [
+            "sites",
+            "never",
+            "down",
+            "distributes",
+            "my",
+            "videos",
+            "quickly",
+            "and",
+            "keeps",
+            "it",
+            "pretty",
+            "secure",
+            "around",
+            "here"
+        ],
+        "words": [
+            "secure",
+            "pretty"
+        ],
+        "positive": [
+            "secure",
+            "pretty"
+        ],
+        "negative": []
+    },
+    {
+        "score": -6,
+        "comparative": -0.024291497975708502,
+        "calculation": [
+            {
+                "better": 2
+            },
+            {
+                "good": 3
+            },
+            {
+                "best": 3
+            },
+            {
+                "protect": 1
+            },
+            {
+                "certain": 1
+            },
+            {
+                "denials": -2
+            },
+            {
+                "hypocritical": -2
+            },
+            {
+                "shameful": -2
+            },
+            {
+                "harassment": -3
+            },
+            {
+                "protect": 1
+            },
+            {
+                "ignore": -1
+            },
+            {
+                "deny": -2
+            },
+            {
+                "meaningless": -2
+            },
+            {
+                "failing": -2
+            },
+            {
+                "great": 3
+            },
+            {
+                "spam": -2
+            },
+            {
+                "frustrating": -2
+            },
+            {
+                "safe": 1
+            },
+            {
+                "want": 1
+            },
+            {
+                "failing": -2
+            },
+            {
+                "deny": -2
+            },
+            {
+                "approval": 2
+            },
+            {
+                "spam": -2
+            },
+            {
+                "honest": 2
+            },
+            {
+                "safety": 1
+            },
+            {
+                "trust": 1
+            },
+            {
+                "spamming": -2
+            }
+        ],
+        "tokens": [
+            "there",
+            "are",
+            "way",
+            "too",
+            "many",
+            "accounts",
+            "from",
+            "india",
+            "israel",
+            "that",
+            "are",
+            "spamming",
+            "western",
+            "accounts",
+            "instagram",
+            "is",
+            "not",
+            "keeping",
+            "the",
+            "trust",
+            "and",
+            "safety",
+            "of",
+            "honest",
+            "and",
+            "compliant",
+            "users",
+            "there’s",
+            "too",
+            "many",
+            "spam",
+            "bot",
+            "accounts",
+            "being",
+            "created",
+            "and",
+            "instagrams",
+            "approval",
+            "deny",
+            "ai",
+            "is",
+            "failing",
+            "to",
+            "remove",
+            "them",
+            "even",
+            "when",
+            "they",
+            "are",
+            "blatantly",
+            "breaking",
+            "tos",
+            "and",
+            "reported",
+            "instagram",
+            "is",
+            "not",
+            "listening",
+            "to",
+            "its",
+            "reasonable",
+            "and",
+            "prudent",
+            "users",
+            "who",
+            "want",
+            "to",
+            "keep",
+            "the",
+            "community",
+            "safe",
+            "through",
+            "regulation",
+            "on",
+            "public",
+            "and",
+            "private",
+            "accounts",
+            "when",
+            "a",
+            "report",
+            "is",
+            "submitted",
+            "there",
+            "are",
+            "too",
+            "many",
+            "prompt",
+            "notifications",
+            "in",
+            "the",
+            "submission",
+            "process",
+            "and",
+            "makes",
+            "it",
+            "painstakingly",
+            "frustrating",
+            "when",
+            "the",
+            "spam",
+            "account",
+            "is",
+            "large",
+            "under",
+            "13",
+            "accounts",
+            "are",
+            "also",
+            "far",
+            "too",
+            "great",
+            "in",
+            "number",
+            "to",
+            "be",
+            "considered",
+            "adequately",
+            "enforced",
+            "who",
+            "ever",
+            "instagram",
+            "may",
+            "be",
+            "using",
+            "to",
+            "regulate",
+            "this",
+            "access",
+            "and",
+            "administratively",
+            "remove",
+            "all",
+            "of",
+            "the",
+            "aforementioned",
+            "accounts",
+            "is",
+            "failing",
+            "their",
+            "employer",
+            "these",
+            "tos",
+            "report",
+            "submissions",
+            "should",
+            "not",
+            "be",
+            "meaningless",
+            "and",
+            "reviewed",
+            "on",
+            "years",
+            "end",
+            "these",
+            "executive",
+            "decisions",
+            "to",
+            "deny",
+            "and",
+            "ignore",
+            "user’s",
+            "right",
+            "to",
+            "protect",
+            "themselves",
+            "from",
+            "unwarranted",
+            "harassment",
+            "is",
+            "shameful",
+            "as",
+            "well",
+            "as",
+            "hypocritical",
+            "when",
+            "compared",
+            "to",
+            "the",
+            "intensity",
+            "of",
+            "western",
+            "election",
+            "year",
+            "scrutiny",
+            "in",
+            "years",
+            "past’s",
+            "contextless",
+            "denials",
+            "how",
+            "is",
+            "unliking",
+            "old",
+            "posts",
+            "‘restricted",
+            "certain",
+            "activity",
+            "to",
+            "protect",
+            "our",
+            "community’",
+            "‘something",
+            "went",
+            "wrong’",
+            "the",
+            "current",
+            "version",
+            "repositions",
+            "selections",
+            "to",
+            "random",
+            "photos",
+            "in",
+            "the",
+            "users",
+            "profile",
+            "and",
+            "the",
+            "settings",
+            "page",
+            "takes",
+            "a",
+            "long",
+            "time",
+            "to",
+            "load",
+            "if",
+            "even",
+            "at",
+            "all",
+            "it’s",
+            "beta",
+            "at",
+            "best",
+            "this",
+            "is",
+            "not",
+            "a",
+            "good",
+            "time",
+            "and",
+            "look",
+            "for",
+            "instagram",
+            "hire",
+            "better"
+        ],
+        "words": [
+            "better",
+            "good",
+            "best",
+            "protect",
+            "certain",
+            "denials",
+            "hypocritical",
+            "shameful",
+            "harassment",
+            "protect",
+            "ignore",
+            "deny",
+            "meaningless",
+            "failing",
+            "great",
+            "spam",
+            "frustrating",
+            "safe",
+            "want",
+            "failing",
+            "deny",
+            "approval",
+            "spam",
+            "honest",
+            "safety",
+            "trust",
+            "spamming"
+        ],
+        "positive": [
+            "better",
+            "good",
+            "best",
+            "protect",
+            "certain",
+            "protect",
+            "great",
+            "safe",
+            "want",
+            "approval",
+            "honest",
+            "safety",
+            "trust"
+        ],
+        "negative": [
+            "denials",
+            "hypocritical",
+            "shameful",
+            "harassment",
+            "ignore",
+            "deny",
+            "meaningless",
+            "failing",
+            "spam",
+            "frustrating",
+            "failing",
+            "deny",
+            "spam",
+            "spamming"
+        ]
+    },
+    {
+        "score": -2,
+        "comparative": -0.02127659574468085,
+        "calculation": [
+            {
+                "no": -1
+            },
+            {
+                "certain": 1
+            },
+            {
+                "highlight": 2
+            },
+            {
+                "unavailable": -1
+            },
+            {
+                "unavailable": -1
+            },
+            {
+                "weird": -2
+            }
+        ],
+        "tokens": [
+            "my",
+            "boyfriend",
+            "posts",
+            "every",
+            "day",
+            "all",
+            "day",
+            "and",
+            "it’s",
+            "really",
+            "weird",
+            "how",
+            "i",
+            "can",
+            "see",
+            "everything",
+            "he",
+            "posts",
+            "i",
+            "have",
+            "his",
+            "account",
+            "so",
+            "i",
+            "know",
+            "the",
+            "story",
+            "is",
+            "the",
+            "same",
+            "as",
+            "the",
+            "rest",
+            "and",
+            "it",
+            "says",
+            "it’s",
+            "unavailable",
+            "he",
+            "has",
+            "posted",
+            "me",
+            "three",
+            "times",
+            "last",
+            "2",
+            "months",
+            "and",
+            "they",
+            "all",
+            "say",
+            "unavailable",
+            "but",
+            "everyone",
+            "else",
+            "can",
+            "see",
+            "it",
+            "i",
+            "can",
+            "see",
+            "the",
+            "other",
+            "pics",
+            "of",
+            "me",
+            "but",
+            "why",
+            "after",
+            "all",
+            "this",
+            "time",
+            "can",
+            "i",
+            "still",
+            "not",
+            "see",
+            "the",
+            "highlight",
+            "certain",
+            "ones",
+            "i",
+            "have",
+            "no",
+            "settings",
+            "going",
+            "against",
+            "the",
+            "content",
+            "i",
+            "see",
+            "or",
+            "age",
+            "restrictions"
+        ],
+        "words": [
+            "no",
+            "certain",
+            "highlight",
+            "unavailable",
+            "unavailable",
+            "weird"
+        ],
+        "positive": [
+            "certain",
+            "highlight"
+        ],
+        "negative": [
+            "no",
+            "unavailable",
+            "unavailable",
+            "weird"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "i’ve",
+            "had",
+            "an",
+            "issue",
+            "with",
+            "logging",
+            "into",
+            "my",
+            "instagram",
+            "for",
+            "a",
+            "while",
+            "now",
+            "and",
+            "instagram",
+            "has",
+            "done",
+            "nothing",
+            "about",
+            "it",
+            "i’ve",
+            "done",
+            "everything",
+            "i",
+            "can",
+            "log",
+            "in",
+            "on",
+            "safari",
+            "and",
+            "other",
+            "devices",
+            "other",
+            "than",
+            "my",
+            "phone",
+            "and",
+            "instagram",
+            "hasn’t",
+            "fixed",
+            "the",
+            "issues",
+            "and",
+            "it’s",
+            "been",
+            "more",
+            "than",
+            "2",
+            "months"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": -3,
+        "comparative": -0.17647058823529413,
+        "calculation": [
+            {
+                "killing": -3
+            }
+        ],
+        "tokens": [
+            "i",
+            "can’t",
+            "delete",
+            "instagram",
+            "and",
+            "tic",
+            "toc",
+            "both",
+            "apps",
+            "will",
+            "not",
+            "open",
+            "there",
+            "just",
+            "killing",
+            "my",
+            "phone"
+        ],
+        "words": [
+            "killing"
+        ],
+        "positive": [],
+        "negative": [
+            "killing"
+        ]
+    },
+    {
+        "score": 3,
+        "comparative": 0.061224489795918366,
+        "calculation": [
+            {
+                "want": 1
+            },
+            {
+                "like": 2
+            },
+            {
+                "like": 2
+            },
+            {
+                "cool": 1
+            },
+            {
+                "complaints": -2
+            },
+            {
+                "no": -1
+            }
+        ],
+        "tokens": [
+            "been",
+            "using",
+            "the",
+            "app",
+            "forever",
+            "no",
+            "complaints",
+            "at",
+            "the",
+            "moment",
+            "but",
+            "how",
+            "cool",
+            "would",
+            "it",
+            "be",
+            "if",
+            "we",
+            "were",
+            "able",
+            "to",
+            "have",
+            "two",
+            "profile",
+            "pictures",
+            "we",
+            "get",
+            "to",
+            "alternate",
+            "between",
+            "we",
+            "could",
+            "like",
+            "flip",
+            "it",
+            "like",
+            "a",
+            "coin",
+            "to",
+            "pick",
+            "which",
+            "one",
+            "we",
+            "want",
+            "to",
+            "use",
+            "i",
+            "dunno",
+            "🙂‍↔️"
+        ],
+        "words": [
+            "want",
+            "like",
+            "like",
+            "cool",
+            "complaints",
+            "no"
+        ],
+        "positive": [
+            "want",
+            "like",
+            "like",
+            "cool"
+        ],
+        "negative": [
+            "complaints",
+            "no"
+        ]
+    },
+    {
+        "score": -2,
+        "comparative": -0.09523809523809523,
+        "calculation": [
+            {
+                "wrong": -2
+            }
+        ],
+        "tokens": [
+            "how",
+            "come",
+            "i",
+            "use",
+            "my",
+            "daughter",
+            "account",
+            "with",
+            "out",
+            "login",
+            "as",
+            "soon",
+            "as",
+            "i",
+            "download",
+            "the",
+            "app",
+            "this",
+            "apps",
+            "totally",
+            "wrong"
+        ],
+        "words": [
+            "wrong"
+        ],
+        "positive": [],
+        "negative": [
+            "wrong"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [
+            {
+                "problems": -2
+            },
+            {
+                "great": 3
+            },
+            {
+                "accident": -2
+            },
+            {
+                "problem": -2
+            },
+            {
+                "good": 3
+            }
+        ],
+        "tokens": [
+            "it’s",
+            "a",
+            "very",
+            "good",
+            "app",
+            "to",
+            "talk",
+            "to",
+            "your",
+            "friends",
+            "the",
+            "only",
+            "problem",
+            "is",
+            "that",
+            "if",
+            "you",
+            "log",
+            "out",
+            "of",
+            "your",
+            "a",
+            "account",
+            "by",
+            "accident",
+            "when",
+            "you",
+            "try",
+            "to",
+            "login",
+            "it",
+            "won’t",
+            "work",
+            "and",
+            "when",
+            "you",
+            "try",
+            "the",
+            "other",
+            "method",
+            "it",
+            "won’t",
+            "work",
+            "either",
+            "but",
+            "over",
+            "all",
+            "the",
+            "app",
+            "is",
+            "great",
+            "just",
+            "a",
+            "few",
+            "problems"
+        ],
+        "words": [
+            "problems",
+            "great",
+            "accident",
+            "problem",
+            "good"
+        ],
+        "positive": [
+            "great",
+            "good"
+        ],
+        "negative": [
+            "problems",
+            "accident",
+            "problem"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "it’s",
+            "just",
+            "the",
+            "mobile",
+            "port"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": -5,
+        "comparative": -0.11904761904761904,
+        "calculation": [
+            {
+                "falsely": -2
+            },
+            {
+                "no": -1
+            },
+            {
+                "banned": -2
+            }
+        ],
+        "tokens": [
+            "i",
+            "got",
+            "flagged",
+            "and",
+            "banned",
+            "for",
+            "no",
+            "reason",
+            "the",
+            "apps",
+            "ai",
+            "moderation",
+            "falsely",
+            "flagged",
+            "many",
+            "of",
+            "the",
+            "pins",
+            "i’ve",
+            "saved-",
+            "90",
+            "percent",
+            "of",
+            "it",
+            "being",
+            "innocent",
+            "art",
+            "or",
+            "pose",
+            "models",
+            "since",
+            "i",
+            "use",
+            "this",
+            "app",
+            "for",
+            "art",
+            "don’t",
+            "use",
+            "this",
+            "app",
+            "seriously"
+        ],
+        "words": [
+            "falsely",
+            "no",
+            "banned"
+        ],
+        "positive": [],
+        "negative": [
+            "falsely",
+            "no",
+            "banned"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "number",
+            "1"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "y’all",
+            "need",
+            "to",
+            "fix",
+            "y’all",
+            "app",
+            "i",
+            "can’t",
+            "do",
+            "a",
+            "face",
+            "selfie"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 3,
+        "comparative": 0.23076923076923078,
+        "calculation": [
+            {
+                "rewards": 2
+            },
+            {
+                "please": 1
+            }
+        ],
+        "tokens": [
+            "please",
+            "can",
+            "you",
+            "bring",
+            "back",
+            "the",
+            "daily",
+            "rewards",
+            "we",
+            "get",
+            "when",
+            "we",
+            "post"
+        ],
+        "words": [
+            "rewards",
+            "please"
+        ],
+        "positive": [
+            "rewards",
+            "please"
+        ],
+        "negative": []
+    },
+    {
+        "score": 3,
+        "comparative": 3,
+        "calculation": [
+            {
+                "perfect": 3
+            }
+        ],
+        "tokens": [
+            "perfect"
+        ],
+        "words": [
+            "perfect"
+        ],
+        "positive": [
+            "perfect"
+        ],
+        "negative": []
+    },
+    {
+        "score": -3,
+        "comparative": -1,
+        "calculation": [
+            {
+                "worst": -3
+            }
+        ],
+        "tokens": [
+            "worst",
+            "app",
+            "ever"
+        ],
+        "words": [
+            "worst"
+        ],
+        "positive": [],
+        "negative": [
+            "worst"
+        ]
+    },
+    {
+        "score": -1,
+        "comparative": -0.045454545454545456,
+        "calculation": [
+            {
+                "disappears": -1
+            }
+        ],
+        "tokens": [
+            "i’ve",
+            "edited",
+            "the",
+            "same",
+            "reel",
+            "5",
+            "times",
+            "and",
+            "the",
+            "caption",
+            "disappears",
+            "after",
+            "i",
+            "post",
+            "it",
+            "why",
+            "is",
+            "the",
+            "app",
+            "glitching",
+            "it’s",
+            "2025"
+        ],
+        "words": [
+            "disappears"
+        ],
+        "positive": [],
+        "negative": [
+            "disappears"
+        ]
+    },
+    {
+        "score": 1,
+        "comparative": 0.021739130434782608,
+        "calculation": [
+            {
+                "sue": -2
+            },
+            {
+                "hope": 2
+            },
+            {
+                "likes": 2
+            },
+            {
+                "stop": -1
+            }
+        ],
+        "tokens": [
+            "instagram",
+            "needs",
+            "to",
+            "give",
+            "the",
+            "consumers",
+            "the",
+            "options",
+            "to",
+            "disable",
+            "the",
+            "suggestion",
+            "pop",
+            "up",
+            "from",
+            "the",
+            "story",
+            "bar",
+            "or",
+            "not",
+            "and",
+            "stop",
+            "sharing",
+            "my",
+            "likes",
+            "or",
+            "visual",
+            "to",
+            "other",
+            "people",
+            "that",
+            "is",
+            "the",
+            "privacy",
+            "i",
+            "hope",
+            "someone",
+            "sue",
+            "this",
+            "facebook",
+            "and",
+            "deal",
+            "with",
+            "the",
+            "privacy",
+            "again"
+        ],
+        "words": [
+            "sue",
+            "hope",
+            "likes",
+            "stop"
+        ],
+        "positive": [
+            "hope",
+            "likes"
+        ],
+        "negative": [
+            "sue",
+            "stop"
+        ]
+    },
+    {
+        "score": -1,
+        "comparative": -0.09090909090909091,
+        "calculation": [
+            {
+                "hacked": -1
+            }
+        ],
+        "tokens": [
+            "they",
+            "wouldn’t",
+            "let",
+            "me",
+            "get",
+            "my",
+            "acc",
+            "back",
+            "after",
+            "getting",
+            "hacked"
+        ],
+        "words": [
+            "hacked"
+        ],
+        "positive": [],
+        "negative": [
+            "hacked"
+        ]
+    },
+    {
+        "score": -10,
+        "comparative": -0.2,
+        "calculation": [
+            {
+                "censor": -2
+            },
+            {
+                "ignore": -1
+            },
+            {
+                "complaints": -2
+            },
+            {
+                "denied": -2
+            },
+            {
+                "violent": -3
+            }
+        ],
+        "tokens": [
+            "the",
+            "instagram",
+            "algorithm",
+            "does",
+            "not",
+            "recognize",
+            "the",
+            "difference",
+            "between",
+            "blood",
+            "from",
+            "surgery",
+            "versus",
+            "blood",
+            "from",
+            "violent",
+            "content",
+            "medical",
+            "posts",
+            "get",
+            "flagged",
+            "inappropriately",
+            "and",
+            "then",
+            "when",
+            "we",
+            "ask",
+            "for",
+            "a",
+            "review",
+            "we",
+            "get",
+            "denied",
+            "i",
+            "have",
+            "heard",
+            "similar",
+            "complaints",
+            "from",
+            "other",
+            "medical",
+            "colleagues",
+            "and",
+            "instagram",
+            "continues",
+            "to",
+            "ignore",
+            "and",
+            "censor",
+            "us"
+        ],
+        "words": [
+            "censor",
+            "ignore",
+            "complaints",
+            "denied",
+            "violent"
+        ],
+        "positive": [],
+        "negative": [
+            "censor",
+            "ignore",
+            "complaints",
+            "denied",
+            "violent"
+        ]
+    },
+    {
+        "score": 5,
+        "comparative": 0.08064516129032258,
+        "calculation": [
+            {
+                "fun": 4
+            },
+            {
+                "careful": 2
+            },
+            {
+                "no": -1
+            }
+        ],
+        "tokens": [
+            "i",
+            "tried",
+            "login",
+            "to",
+            "many",
+            "of",
+            "my",
+            "accounts",
+            "but",
+            "they",
+            "all",
+            "just",
+            "got",
+            "deactivated",
+            "for",
+            "no",
+            "reason",
+            "but",
+            "they",
+            "said",
+            "i",
+            "was",
+            "not",
+            "being",
+            "careful",
+            "with",
+            "community",
+            "guidelines",
+            "which",
+            "i",
+            "was",
+            "they",
+            "just",
+            "wanted",
+            "to",
+            "take",
+            "my",
+            "accounts",
+            "just",
+            "for",
+            "the",
+            "fun",
+            "ig",
+            "but",
+            "aye",
+            "i",
+            "guess",
+            "that's",
+            "what",
+            "instagram",
+            "do",
+            "for",
+            "people",
+            "when",
+            "you",
+            "been",
+            "on",
+            "their",
+            "platforms",
+            "for",
+            "them",
+            "longest"
+        ],
+        "words": [
+            "fun",
+            "careful",
+            "no"
+        ],
+        "positive": [
+            "fun",
+            "careful"
+        ],
+        "negative": [
+            "no"
+        ]
+    },
+    {
+        "score": 3,
+        "comparative": 0.21428571428571427,
+        "calculation": [
+            {
+                "help": 2
+            },
+            {
+                "please": 1
+            }
+        ],
+        "tokens": [
+            "please",
+            "help",
+            "make",
+            "it",
+            "happen",
+            "captain",
+            "faithingod",
+            "to",
+            "make",
+            "it",
+            "happen",
+            "captain",
+            "by",
+            "christinaemilyrosebullard"
+        ],
+        "words": [
+            "help",
+            "please"
+        ],
+        "positive": [
+            "help",
+            "please"
+        ],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "trop",
+            "de",
+            "pub"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": 3,
+        "comparative": 0.2,
+        "calculation": [
+            {
+                "help": 2
+            },
+            {
+                "wish": 1
+            }
+        ],
+        "tokens": [
+            "just",
+            "wish",
+            "i",
+            "could",
+            "get",
+            "my",
+            "followers",
+            "back",
+            "up",
+            "help",
+            "me",
+            "grow",
+            "@muvaaab",
+            "blanca",
+            "bmoney"
+        ],
+        "words": [
+            "help",
+            "wish"
+        ],
+        "positive": [
+            "help",
+            "wish"
+        ],
+        "negative": []
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "when",
+            "adding",
+            "reels",
+            "the",
+            "video",
+            "remains",
+            "small",
+            "can’t",
+            "even",
+            "scale",
+            "it",
+            "that",
+            "should",
+            "be",
+            "more",
+            "simple"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    {
+        "score": -6,
+        "comparative": -0.16216216216216217,
+        "calculation": [
+            {
+                "worse": -3
+            },
+            {
+                "allow": 1
+            },
+            {
+                "violating": -2
+            },
+            {
+                "disabling": -1
+            },
+            {
+                "no": -1
+            }
+        ],
+        "tokens": [
+            "instagram",
+            "had",
+            "no",
+            "reason",
+            "on",
+            "suspending",
+            "and",
+            "disabling",
+            "my",
+            "account",
+            "for",
+            "somehow",
+            "violating",
+            "nudity",
+            "i’m",
+            "a",
+            "minor",
+            "and",
+            "not",
+            "only",
+            "that",
+            "i",
+            "don’t",
+            "post",
+            "nothing",
+            "wit",
+            "nudity",
+            "yet",
+            "they",
+            "allow",
+            "these",
+            "grown",
+            "men",
+            "do",
+            "worse",
+            "then",
+            "me"
+        ],
+        "words": [
+            "worse",
+            "allow",
+            "violating",
+            "disabling",
+            "no"
+        ],
+        "positive": [
+            "allow"
+        ],
+        "negative": [
+            "worse",
+            "violating",
+            "disabling",
+            "no"
+        ]
+    },
+    {
+        "score": -4,
+        "comparative": -0.06153846153846154,
+        "calculation": [
+            {
+                "honest": 2
+            },
+            {
+                "worst": -3
+            },
+            {
+                "suspended": -1
+            },
+            {
+                "like": 2
+            },
+            {
+                "mad": -3
+            },
+            {
+                "hacked": -1
+            },
+            {
+                "suspended": -1
+            },
+            {
+                "support": 2
+            },
+            {
+                "hacked": -1
+            }
+        ],
+        "tokens": [
+            "i’ve",
+            "made",
+            "6",
+            "accounts",
+            "since",
+            "i’ve",
+            "been",
+            "hacked",
+            "i",
+            "called",
+            "support",
+            "and",
+            "they",
+            "suspended",
+            "the",
+            "account",
+            "that",
+            "was",
+            "hacked",
+            "but",
+            "since",
+            "then",
+            "i’ve",
+            "mad",
+            "6",
+            "others",
+            "like",
+            "i",
+            "said",
+            "and",
+            "they",
+            "all",
+            "have",
+            "been",
+            "suspended",
+            "almost",
+            "instantly",
+            "i",
+            "didn’t",
+            "even",
+            "have",
+            "time",
+            "to",
+            "make",
+            "a",
+            "profile",
+            "picture",
+            "this",
+            "app",
+            "is",
+            "probably",
+            "the",
+            "worst",
+            "thing",
+            "since",
+            "vegemite",
+            "app",
+            "doesn’t",
+            "even",
+            "deserve",
+            "2",
+            "star",
+            "to",
+            "be",
+            "honest"
+        ],
+        "words": [
+            "honest",
+            "worst",
+            "suspended",
+            "like",
+            "mad",
+            "hacked",
+            "suspended",
+            "support",
+            "hacked"
+        ],
+        "positive": [
+            "honest",
+            "like",
+            "support"
+        ],
+        "negative": [
+            "worst",
+            "suspended",
+            "mad",
+            "hacked",
+            "suspended",
+            "hacked"
+        ]
+    },
+    {
+        "score": -2,
+        "comparative": -0.045454545454545456,
+        "calculation": [
+            {
+                "poorly": -2
+            },
+            {
+                "embarrassing": -2
+            },
+            {
+                "pretty": 1
+            },
+            {
+                "no": -1
+            },
+            {
+                "worth": 2
+            }
+        ],
+        "tokens": [
+            "you’d",
+            "think",
+            "for",
+            "a",
+            "company",
+            "worth",
+            "billions",
+            "with",
+            "their",
+            "flag",
+            "ship",
+            "app",
+            "would",
+            "have",
+            "fewer",
+            "bugs",
+            "but",
+            "no",
+            "half",
+            "the",
+            "time",
+            "you",
+            "can’t",
+            "post",
+            "things",
+            "without",
+            "resetting",
+            "the",
+            "app",
+            "or",
+            "story",
+            "settings",
+            "it’s",
+            "pretty",
+            "embarrassing",
+            "the",
+            "2nd",
+            "most",
+            "used",
+            "app",
+            "is",
+            "run",
+            "so",
+            "poorly"
+        ],
+        "words": [
+            "poorly",
+            "embarrassing",
+            "pretty",
+            "no",
+            "worth"
+        ],
+        "positive": [
+            "pretty",
+            "worth"
+        ],
+        "negative": [
+            "poorly",
+            "embarrassing",
+            "no"
+        ]
+    },
+    {
+        "score": -3,
+        "comparative": -0.05263157894736842,
+        "calculation": [
+            {
+                "worst": -3
+            },
+            {
+                "want": 1
+            },
+            {
+                "hide": -1
+            },
+            {
+                "no": -1
+            },
+            {
+                "blocks": -1
+            },
+            {
+                "likes": 2
+            }
+        ],
+        "tokens": [
+            "several",
+            "months",
+            "ago",
+            "they",
+            "added",
+            "a",
+            "box",
+            "in",
+            "the",
+            "upper",
+            "right",
+            "corner",
+            "that",
+            "shows",
+            "likes",
+            "of",
+            "friends",
+            "it",
+            "blocks",
+            "some",
+            "of",
+            "the",
+            "screen",
+            "but",
+            "there",
+            "is",
+            "no",
+            "setting",
+            "to",
+            "hide",
+            "it",
+            "many",
+            "users",
+            "have",
+            "claimed",
+            "they",
+            "don’t",
+            "want",
+            "friends",
+            "ti",
+            "know",
+            "what",
+            "videos",
+            "they",
+            "are",
+            "interacting",
+            "with",
+            "but",
+            "aim",
+            "hasn’t",
+            "made",
+            "a",
+            "fix",
+            "yet",
+            "worst",
+            "update",
+            "ever"
+        ],
+        "words": [
+            "worst",
+            "want",
+            "hide",
+            "no",
+            "blocks",
+            "likes"
+        ],
+        "positive": [
+            "want",
+            "likes"
+        ],
+        "negative": [
+            "worst",
+            "hide",
+            "no",
+            "blocks"
+        ]
+    },
+    {
+        "score": 1,
+        "comparative": 0.037037037037037035,
+        "calculation": [
+            {
+                "please": 1
+            }
+        ],
+        "tokens": [
+            "please",
+            "fix",
+            "the",
+            "audio",
+            "for",
+            "some",
+            "reason",
+            "i’ll",
+            "scroll",
+            "through",
+            "videos",
+            "and",
+            "it",
+            "will",
+            "bug",
+            "out",
+            "and",
+            "keep",
+            "playing",
+            "the",
+            "video",
+            "even",
+            "out",
+            "the",
+            "app",
+            "of",
+            "instagram"
+        ],
+        "words": [
+            "please"
+        ],
+        "positive": [
+            "please"
+        ],
+        "negative": []
+    },
+    {
+        "score": 4,
+        "comparative": 0.15384615384615385,
+        "calculation": [
+            {
+                "strike": -1
+            },
+            {
+                "fan": 3
+            },
+            {
+                "like": 2
+            }
+        ],
+        "tokens": [
+            "instagram",
+            "doesn’t",
+            "like",
+            "anime",
+            "post",
+            "do",
+            "not",
+            "download",
+            "this",
+            "app",
+            "if",
+            "u",
+            "are",
+            "a",
+            "anime",
+            "fan",
+            "they",
+            "will",
+            "give",
+            "u",
+            "strike",
+            "if",
+            "u",
+            "post",
+            "anime",
+            "content"
+        ],
+        "words": [
+            "strike",
+            "fan",
+            "like"
+        ],
+        "positive": [
+            "fan",
+            "like"
+        ],
+        "negative": [
+            "strike"
+        ]
+    },
+    {
+        "score": 0,
+        "comparative": 0,
+        "calculation": [],
+        "tokens": [
+            "suggested",
+            "posts",
+            "won’t",
+            "load"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    }
+]
